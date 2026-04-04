@@ -1,0 +1,5 @@
+{
+  "name": "News Card Generator",
+  "description": "A tool to generate social media news cards with custom images and text in Bengali.",
+  "requestFramePermissions": []
+}
